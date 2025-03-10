@@ -41,4 +41,6 @@ IDE: Visual Studio
 Acknowledgments
 Inspired by classic arcade games that challenge players to avoid obstacles and collect items.
 Special thanks to the game development community for resources and tutorials.
-Author: Omri Shema
+
+
+## Author: Omri Shema
