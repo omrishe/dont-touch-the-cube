@@ -1,8 +1,8 @@
-# Don't Touch the Cube
+# Cube Run
 
 ## Overview
 
-"Don't Touch the Cube" is a solo-developed game where players must navigate through levels, avoiding guard cubes while collecting jewel cubes to win. 
+"Cube Run" is a solo-developed game where players must navigate through levels, avoiding guard cubes while collecting jewel cubes to win. 
 The objective of the game is to reach the end of level without colliding with the guard cubes.
 
 ## Gameplay
